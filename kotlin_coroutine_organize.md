@@ -112,4 +112,4 @@ fun load() = runBlocking(Dispatchers.IO) {
 
 * [official] (https://www.youtube.com/watch?v=a3agLJQ6vt8, "official video")
 
-* [developerQuiz] (https://developer.android.com/courses/quizzes/android-basics-kotlin-unit-4-pathway-1/android-basics-kotlin-unit-4-pathway-1?hl=ko&skip_cache=false,"quiz")
+* [developerQuiz] (https://developer.android.com/courses/quizzes/android-basics-kotlin-unit-4-pathway-1/android-basics-kotlin-unit-4-pathway-1?hl=ko&skip_cache=false, "quiz")
