@@ -106,7 +106,7 @@ fun load() = runBlocking(Dispatchers.IO) {
 
 
 ### 유익한 참고 사이트
-* [Blog] (https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15/,"tech blog")
+* [Blog] (https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15/, "tech blog")
 
 * [Blog] (https://jaejong.tistory.com/64?category=876113, "tech Blog2")
 
