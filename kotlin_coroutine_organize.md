@@ -106,10 +106,10 @@ fun load() = runBlocking(Dispatchers.IO) {
 
 
 ### 유익한 참고 사이트
-* [Blog] (https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15/, "tech blog")
+* [Blog](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15/, "tech blog")
 
-* [Blog] (https://jaejong.tistory.com/64?category=876113, "tech Blog2")
+* [Blog](https://jaejong.tistory.com/64?category=876113, "tech Blog2")
 
-* [official] (https://www.youtube.com/watch?v=a3agLJQ6vt8, "official video")
+* [official](https://www.youtube.com/watch?v=a3agLJQ6vt8, "official video")
 
-* [developerQuiz] (https://developer.android.com/courses/quizzes/android-basics-kotlin-unit-4-pathway-1/android-basics-kotlin-unit-4-pathway-1?hl=ko&skip_cache=false, "quiz")
+* [developerQuiz](https://developer.android.com/courses/quizzes/android-basics-kotlin-unit-4-pathway-1/android-basics-kotlin-unit-4-pathway-1?hl=ko&skip_cache=false, "quiz")
