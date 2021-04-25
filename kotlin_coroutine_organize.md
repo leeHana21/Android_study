@@ -96,7 +96,7 @@ fun load() = runBlocking(Dispatchers.IO) {
     * async() -> Deferred 반환 (결과 값 반환)
 
 7. 빈칸 채우기 (구글 제공 문제 중 9번)
-    * A [ ] is similar to a promise or future in other languages and serves as a placeholder for a return value.
+    * A [Deferred] is similar to a promise or future in other languages and serves as a placeholder for a return value.
 
 ### 해결되지 않은 궁금점
 * viewmodel 사용 시 viewModelscope 을 활용할 수 있는데 왜 굳이 또 coroutine 블럭을 사용할까?
