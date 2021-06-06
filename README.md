@@ -9,4 +9,4 @@
   * #### [3회차+more / 2021.05.28 / projectFlavor](https://github.com/leeHana21/Android_study/blob/main/android_flavor_organize.md)
 
 
-### [구글I/O 정리]()
+### [구글I/O 정리](https://www.notion.so/Google-I-O-f72397866aa0404bb5d5269c063d35da)
