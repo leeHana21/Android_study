@@ -8,5 +8,6 @@
   * #### [3회차+more / 2021.05.28 / WorkManager](https://github.com/leeHana21/Android_study/blob/main/workManager_organize.md)
   * #### [3회차+more / 2021.05.28 / projectFlavor](https://github.com/leeHana21/Android_study/blob/main/android_flavor_organize.md)
 
+### [4회차 / 2021.06.29 / Android Test ](https://github.com/leeHana21/Android_study/blob/main/android_test_organize.md)
 
 ### [구글I/O 정리](https://www.notion.so/Google-I-O-f72397866aa0404bb5d5269c063d35da)
